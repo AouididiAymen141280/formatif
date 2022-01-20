@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "01SYynxKQ0f9mF2HGn3cbR6kyridy5WC3+V3+KngqLFZSbDp58sxAh0pT9izQUsVs/N2K8l3HkJCL6V6YYB+wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaouididi\\Desktop\\Cegep\\Hiver2022\\AppWeb2\\Cours\\Sem1\\Formatif\\formatif\\src\\Web2.API\\Web2.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaouididi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\aaouididi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aaouididi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\aaouididi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\aaouididi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\aaouididi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\aaouididi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Web2.API</name>
+    </assembly>
+    <members>
+        <member name="M:Web2.API.Controller.ProductsController.Get">
+            <summary>
+            Retourne la liste des produits
+            </summary>
+            <response code="200">Produits retournés succés</response>
+            <response code="404">Produits non trouvés</response>
+            <returns>List de produits</returns>
+        </member>
+        <member name="M:Web2.API.Controller.ProductsController.Post(Web2.API.Models.Product)">
+            <summary>
+            Ajouter un produit
+            </summary>
+            <param name="product">un produit décrit par un id et un nom</param>
+            <response code="200">Produit ajouté avec succés</response>
+            <response code="201">Produit ajouté et retourné dans la requête</response>
+            <response code="204">Produit ajouté mais rien n'est retourné</response>
+            <returns>Le produit crée</returns>
+        </member>
+        <member name="M:Web2.API.Controller.ProductsController.Delete(System.Int32)">
+            <summary>
+            Supprimer un produit
+            </summary>
+            <param name="id">L'identifiant du produit à suuprimer</param>
+            <response code="204">Produit supprimé</response>
+            <response code="404">Produit à supprimer non trouvé</response>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
